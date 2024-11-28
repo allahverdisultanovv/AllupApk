@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllupApk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a751757064fb31e28302d711e588fe25274105")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllupApk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllupApk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

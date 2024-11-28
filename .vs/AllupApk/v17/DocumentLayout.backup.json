@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\allupapk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\allupapk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -57,14 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|solutionrelative:allupapk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4BDF6C2-6FD4-4ADA-8475-C054A9CE6DE3}|AllupApk\\AllupApk.csproj|c:\\users\\allahverdi\\desktop\\code\\backend\\mvc\\classwork\\allupapk\\allupapk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,35 +118,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20241126001822_AddColumnInCategoriesTable.cs",
-              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
-              "RelativeDocumentMoniker": "AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
-              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
-              "RelativeToolTip": "AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:18:22.997Z"
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:52:50.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
-              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
-              "RelativeDocumentMoniker": "AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
-              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
-              "RelativeToolTip": "AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AllupApk\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:52:25.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\Category\\Index.cshtml*",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Views\\Category\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:48:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:13:40.41Z"
+              "WhenOpened": "2024-11-27T14:47:16.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv30AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:03:59.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwCoBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T13:52:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AllupApk\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:38:36.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:38:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AllupApk\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AllupApk\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:51:22.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\DAL\\AppDBContext.cs",
               "RelativeDocumentMoniker": "AllupApk\\DAL\\AppDBContext.cs",
@@ -126,20 +251,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AllupApk\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AllupApk\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAWwM0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T13:37:09.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:37:09.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AllupApk\\Controllers\\HomeController.cs",
@@ -151,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "AllupApk\\ViewModels\\HomeVM.cs",
@@ -163,7 +287,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Program.cs",
+              "RelativeDocumentMoniker": "AllupApk\\Program.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Program.cs",
+              "RelativeToolTip": "AllupApk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:33:03.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "AllupApk\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\ProductImage.cs",
+              "RelativeToolTip": "AllupApk\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:38:24.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\Category.cs",
               "RelativeDocumentMoniker": "AllupApk\\Models\\Category.cs",
@@ -175,7 +324,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
+              "Title": "20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
+              "RelativeDocumentMoniker": "AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
+              "RelativeToolTip": "AllupApk\\Migrations\\20241125141340_CreateProductsAndCategoriesAndProductImagesAndBrands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:13:40.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241126001822_AddColumnInCategoriesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
+              "RelativeDocumentMoniker": "AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
+              "RelativeToolTip": "AllupApk\\Migrations\\20241126001822_AddColumnInCategoriesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:18:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "20241121143037_CreateDbANDCreateSlidesTable.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\20241121143037_CreateDbANDCreateSlidesTable.cs",
               "RelativeDocumentMoniker": "AllupApk\\Migrations\\20241121143037_CreateDbANDCreateSlidesTable.cs",
@@ -187,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "AppDBContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Migrations\\AppDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "AllupApk\\Migrations\\AppDBContextModelSnapshot.cs",
@@ -199,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AllupApk\\Models\\Product.cs",
@@ -211,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "AllupApk\\Models\\Brand.cs",
@@ -223,19 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "AllupApk\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\ProductImage.cs",
-              "RelativeToolTip": "AllupApk\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T13:58:00.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\appsettings.json",
               "RelativeDocumentMoniker": "AllupApk\\appsettings.json",
@@ -247,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "AllupApk\\Models\\Base\\BaseEntity.cs",
@@ -259,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "AllupApk\\Models\\Slide.cs",
@@ -271,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "AllupApk.csproj",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\AllupApk.csproj",
               "RelativeDocumentMoniker": "AllupApk\\AllupApk.csproj",
@@ -283,31 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AllupApk\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AllupApk\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGEFAAAAAAAAAAAnwHIFAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T13:38:36.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Program.cs",
-              "RelativeDocumentMoniker": "AllupApk\\Program.cs",
-              "ToolTip": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Program.cs",
-              "RelativeToolTip": "AllupApk\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:33:03.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Allahverdi\\Desktop\\Code\\BackEnd\\MVC\\ClassWork\\AllupApk\\AllupApk\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AllupApk\\Views\\_ViewStart.cshtml",
